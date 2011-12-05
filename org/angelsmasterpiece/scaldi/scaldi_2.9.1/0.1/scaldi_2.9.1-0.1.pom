@@ -5,7 +5,7 @@
     <artifactId>scaldi_2.9.1</artifactId>
     <packaging>jar</packaging>
     <description>scaldi</description>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.1</version>
     <name>scaldi</name>
     <organization>
         <name>org.angelsmasterpiece.scaldi</name>
